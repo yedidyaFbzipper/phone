@@ -872,7 +872,7 @@ export default [
 		alpha3: 'ISR',
 		country_code: '972',
 		country_name: 'Israel',
-		mobile_begin_with: ['5'],
+		mobile_begin_with: ['5', '7'],
 		phone_number_lengths: [9]
 	},
 	{
